@@ -9,7 +9,7 @@
 > pip installation requests
 
 >[!NOTE]
->Python Windows:
+>Python Windows: <br/>
 https://www.python.org/downloads/
 
 3. Enter the name of the user to whom you want to clone the repositories and a local destination repository where they will be cloned.
