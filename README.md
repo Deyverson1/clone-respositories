@@ -4,7 +4,7 @@
 
 1. You must `copy` or `clone` this `repository`
 2. Install the `requests` library and `Python` if you don't already have it.
->[!WARNING] 
+>[!NOTE] 
 > Request: <br/>
 > pip installation requests
 
