@@ -6,7 +6,7 @@
 2. Install the `requests` library and `Python` if you don't already have it.
 >[!NOTE] 
 > Request: <br/>
-> pip installation requests
+> pip install requests
 
 >[!NOTE]
 >Python Windows: <br/>
