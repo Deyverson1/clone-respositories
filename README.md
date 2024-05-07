@@ -14,8 +14,8 @@
 `https://www.python.org/downloads/`
 
 ## For Linux
-
-1. >[!NOTE] 
+2.
+>[!NOTE] <br/>
 > `sudo apt install python3` <br/>
 > `python3 --version`
 
