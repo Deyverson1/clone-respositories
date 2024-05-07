@@ -15,10 +15,10 @@
 
 ## For Linux
 2.
->[!NOTE] <br/>
+>[!NOTE]
+> You don't need `request` only Python3 <br/>
 > `sudo apt install python3` <br/>
 > `python3 --version`
-
 
 3. Enter the name of the `user` to whom you want to clone the repositories and a `local destination repository` where they will be cloned.
 
