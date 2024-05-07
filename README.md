@@ -7,20 +7,22 @@
 2. Install the `requests` library and `Python` if you don't already have it.
 >[!NOTE] 
 > Request: <br/>
-> pip install requests
+> `pip install requests`
 
 >[!NOTE]
 >Python Windows: <br/>
-https://www.python.org/downloads/
+`https://www.python.org/downloads/`
 
 ## For Linux
 
 1. >[!NOTE] 
-> sudo apt install python3 <br/>
-> python3 --version
+> `sudo apt install python3` <br/>
+> `python3 --version`
 
 
 3. Enter the name of the `user` to whom you want to clone the repositories and a `local destination repository` where they will be cloned.
+
+## Local destination repository Example
 
 `Windows`  C:/Users/Valhalla/Documents/Projects <br/>
 `Linux` /home/valhalla/Documentos/Projects/
