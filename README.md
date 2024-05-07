@@ -3,6 +3,7 @@
 ## Instructions:
 
 1. You must `copy` or `clone` this `repository`
+## For Windows
 2. Install the `requests` library and `Python` if you don't already have it.
 >[!NOTE] 
 > Request: <br/>
@@ -12,4 +13,14 @@
 >Python Windows: <br/>
 https://www.python.org/downloads/
 
+## For Linux
+
+1. >[!NOTE] 
+> sudo apt install python3 <br/>
+> python3 --version
+
+
 3. Enter the name of the `user` to whom you want to clone the repositories and a `local destination repository` where they will be cloned.
+
+`Windows`  C:/Users/Valhalla/Documents/Projects <br/>
+`Linux` /home/valhalla/Documentos/Projects/
