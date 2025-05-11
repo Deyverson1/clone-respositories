@@ -6,9 +6,12 @@ def clone_repositories(username, target_directory):
 
     if response.status_code == 200:
         for repo in response.json():
-            os.system(f"git clone {repo['clone_url']} {target_directory}/{repo['name']}")
+            repo_path = os.path.join(target_directory, repo['name'])
+            os.system(f'git clone "{repo["clone_url"]}" "{repo_path}"')
+
+            print("Done")
     else:
         print("No se pudo obtener la lista de repositorios.")
 
-clone_repositories("Deyverson1",  "/home/valhalla/Documentos/Projects/")
+clone_repositories("Deyverson1", "C:/Users/Anderson Valencia/Documents/GitHub")
                     #Username and destination directory
