@@ -12,6 +12,8 @@
 >[!NOTE]
 >Python Windows: <br/>
 `https://www.python.org/downloads/`
+>To install request
+`python -m pip install requests`
 
 ## For Linux
 2.
