@@ -5,8 +5,11 @@
 1. You must `copy` or `clone` this `repository`
 ## For Windows
 2. Install the `requests` library and `Python` if you don't already have it.
+First, you have to install Python, then you have to install pip in the comand line, be sure you already have python correctly installed
+`python -m ensurepip`
+
 >[!NOTE] 
-> Request: <br/>
+> Install request: <br/>
 > `pip install requests`
 
 >[!NOTE]
@@ -14,6 +17,8 @@
 `https://www.python.org/downloads/` <br/>
 >To install request <br/>
 `python -m pip install requests`
+
+
 
 ## For Linux
 2.
