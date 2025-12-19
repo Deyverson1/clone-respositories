@@ -13,5 +13,5 @@ def clone_repositories(username, target_directory):
     else:
         print("No se pudo obtener la lista de repositorios.")
 
-clone_repositories("Deyverson1", "C:/Users/Anderson Valencia/Documents/GitHub")
+clone_repositories("Deyverson1", "C:/Users/Deyve/OneDrive/Documentos/Projects")
                     #Username and destination directory
